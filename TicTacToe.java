@@ -155,3 +155,85 @@ public class TicTacToe {
         currentPlayer = (currentPlayer == 'X') ? 'O' : 'X';
     }
 }
+
+
+
+/* Enter the size of the board (e.g., 3 for a 3x3 board): 3
+Current Board:
+ - | - | - 
+-----------
+ - | - | - 
+-----------
+ - | - | - 
+
+Player X, enter row (1-3): 1
+Player X, enter column (1-3): 1
+Current Board:
+ X | - | - 
+-----------
+ - | - | - 
+-----------
+ - | - | - 
+
+Player O, enter row (1-3): 3
+Player O, enter column (1-3): 2
+Current Board:
+ X | - | - 
+-----------
+ - | - | - 
+-----------
+ - | O | - 
+
+Player X, enter row (1-3): 1
+Player X, enter column (1-3): 3
+Current Board:
+ X | - | X 
+-----------
+ - | - | - 
+-----------
+ - | O | - 
+
+Player O, enter row (1-3): 1
+Player O, enter column (1-3): 2
+Current Board:
+ X | O | X 
+-----------
+ - | - | - 
+-----------
+ - | O | - 
+
+Player X, enter row (1-3): 2
+Player X, enter column (1-3): 2
+Current Board:
+ X | O | X 
+-----------
+ - | X | - 
+-----------
+ - | O | - 
+
+Player O, enter row (1-3): 3
+Player O, enter column (1-3): 3
+Current Board:
+ X | O | X 
+-----------
+ - | X | - 
+-----------
+ - | O | O 
+
+Player X, enter row (1-3): 3
+Player X, enter column (1-3): 1
+Current Board:
+ X | O | X 
+-----------
+ - | X | - 
+-----------
+ X | O | O 
+
+Player X wins!
+Player X Score: 1
+Player O Score: 0
+Do you want to play again? (y/n): n */
+
+
+
+
